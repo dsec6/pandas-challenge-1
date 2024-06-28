@@ -24,7 +24,7 @@ To run this project, you need Python 3.7+ and the following libraries:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dsec6/pandas-challenge-1](https://github.com/dsec6/pandas-challenge-1)
+   git clone https://github.com/dsec6/pandas-challenge-1
    cd pandas-challenge-1
    ```
 
